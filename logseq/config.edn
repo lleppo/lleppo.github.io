@@ -414,7 +414,7 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy年MM月dd日"
  :preferred-format :org
- :publishing/all-pages-public? false
+ :publishing/all-pages-public? true
  :feature/enable-journals? false
  :default-home {:page "Bobolele"}
  :graph/settings {:journal? false}}
