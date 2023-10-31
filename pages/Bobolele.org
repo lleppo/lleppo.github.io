@@ -1,0 +1,14 @@
+* 服务端技术
+:PROPERTIES:
+:heading: 1
+:END:
+* 生活与创作
+:PROPERTIES:
+:heading: 1
+:END:
+* 随手记
+:PROPERTIES:
+:heading: 1
+:END:
+** [[git配置]]
+*
