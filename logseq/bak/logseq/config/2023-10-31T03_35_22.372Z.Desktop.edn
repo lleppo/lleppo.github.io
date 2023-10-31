@@ -352,6 +352,11 @@
  ;;  :lineNumbers   true   ; Default value: true
  ;;  :readOnly      false} ; Default value: false
 
+ :editor/extra-codemirror-options
+ {:lineWrapping  true  ; Default value: false
+  :lineNumbers   false   ; Default value: true
+  :readOnly      false} ; Default value: false
+
  ;; Enable logical outdenting
  ;; Default value: false
  ;; :editor/logical-outdenting? false
@@ -415,4 +420,5 @@
  :journal/page-title-format "yyyy年MM月dd日"
  :preferred-format :org
  :publishing/all-pages-public? false
- :feature/enable-journals? true}
+ :feature/enable-journals? false
+ :default-home {:page "Bobolele"}}

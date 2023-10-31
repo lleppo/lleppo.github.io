@@ -8,5 +8,4 @@ git config -l # 查看配置效果
 ** ```shell
 ssh-keygen -t rsa -C "libo.rd@outlook.com"
 ```
-** 生成的秘钥存储位置在 `~/.ssh` 目录下面。
-*
+** 生成的秘钥存储位置在 ~.ssh~ 目录下面。

@@ -416,4 +416,5 @@
  :preferred-format :org
  :publishing/all-pages-public? false
  :feature/enable-journals? false
- :default-home {:page "Bobolele"}}
+ :default-home {:page "Bobolele"}
+ :graph/settings {:journal? false}}
