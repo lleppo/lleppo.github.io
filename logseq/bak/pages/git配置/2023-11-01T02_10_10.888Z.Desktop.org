@@ -1,0 +1,14 @@
+* 配置个人信息
+** ```shell
+git config --global user.name "libo"
+git config --global user.email "libo.rd@outlook.com"
+git config -l # 查看配置效果
+```
+* 生成ssh秘钥
+** ```shell
+ssh-keygen -t rsa -C "libo.rd@outlook.com"
+```
+** 生成的秘钥存储位置在 ~hello~ 目录下面。
+**
+*
+*

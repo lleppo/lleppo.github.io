@@ -10,5 +10,6 @@
 :PROPERTIES:
 :heading: 1
 :END:
+** [[git配置]]
 ** [[github添加ssh公钥]]
 *
